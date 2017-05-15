@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1487918429309" stop="1487918470875" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Comparision Tests : Comparision suite[Browser=chrome]</name>
+    <title>Comparision Tests : Comparision suite[Browser=chrome]</title>
+    <test-cases>
+        <test-case start="1487918429309" stop="1487918470870" status="broken">
+            <name>Comparision Tests : Comparision suite[Browser=chrome]</name>
+            <title>Comparision Tests : Comparision suite[Browser=chrome]</title>
+            <failure>
+                <message>Test suite was interrupted, some test cases may be lost</message>
+            </failure>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

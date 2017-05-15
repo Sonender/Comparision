@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1488084637979" stop="1488084663392" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1488084645034" stop="1488084662786" status="passed">
+            <name>runTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="AdminisorsAir62.lan"/>
+                <label name="thread" value="78125@AdminisorsAir62.lan.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

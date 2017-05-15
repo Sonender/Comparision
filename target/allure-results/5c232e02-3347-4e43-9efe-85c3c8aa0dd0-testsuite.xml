@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1488189484431" stop="1488189690820" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1488189491187" stop="1488189690294" status="passed">
+            <name>runTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Administrators-MacBook-Air-62.local"/>
+                <label name="thread" value="37150@Administrators-MacBook-Air-62.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

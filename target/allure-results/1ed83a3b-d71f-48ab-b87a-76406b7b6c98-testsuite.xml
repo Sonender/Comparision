@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1488367206174" stop="1488367245533" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Comparision Tests : Comparision suite[Browser=chrome]</name>
+    <title>Comparision Tests : Comparision suite[Browser=chrome]</title>
+    <test-cases>
+        <test-case start="1488367220838" stop="1488367244452" status="passed">
+            <name>runTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Administrators-MacBook-Air-62.local"/>
+                <label name="thread" value="69800@Administrators-MacBook-Air-62.local.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

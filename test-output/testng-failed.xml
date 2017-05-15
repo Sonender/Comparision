@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" name="Failed suite [Comparision Tests]" parallel="classes">
+  <parameter name="Browser" value="chrome"/>
+  <listeners>
+    <listener class-name="listeners.TestListner"/>
+  </listeners>
+  <test name="Comparision suite(failed)" parallel="classes">
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="test.TestClass4">
+        <methods>
+          <include name="testOne"/>
+        </methods>
+      </class> <!-- test.TestClass4 -->
+      <class name="test.TestClass5">
+        <methods>
+          <include name="testOne"/>
+        </methods>
+      </class> <!-- test.TestClass5 -->
+    </classes>
+  </test> <!-- Comparision suite(failed) -->
+</suite> <!-- Failed suite [Comparision Tests] -->

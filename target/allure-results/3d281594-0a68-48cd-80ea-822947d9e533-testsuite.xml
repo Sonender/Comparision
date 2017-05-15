@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1493652929766" stop="1493653005744" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Comparision Tests : Comparision suite[Browser=chrome]</name>
+    <title>Comparision Tests : Comparision suite[Browser=chrome]</title>
+    <test-cases>
+        <test-case start="1493652950107" stop="1493653005739" status="broken">
+            <name>runTest1</name>
+            <failure>
+                <message>Test was interrupted</message>
+            </failure>
+            <labels>
+                <label name="host" value="AdminisorsAir62.lan"/>
+                <label name="thread" value="83927@AdminisorsAir62.lan.pool-1-thread-1(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493652929766" stop="1493653005740" status="broken">
+            <name>Comparision Tests : Comparision suite[Browser=chrome]</name>
+            <title>Comparision Tests : Comparision suite[Browser=chrome]</title>
+            <failure>
+                <message>Test suite was interrupted, some test cases may be lost</message>
+            </failure>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Comparision Tests" verbose="1" >
+<listeners>
+<listener class-name="listeners.TestListner" />
+</listeners>
+	<test name="Comparision suite">
+		<parameter name="Browser" value="chrome" >
+			<classes>
+				<!--  -->class name="test.TestClass"/>
+				 <!--  -->class name="test.TestClass1"/>
+				  <!--  -->class name="test.TestClass2"/>
+				    <!--  -->class name="test.TestClass3"/>
+				     <class name="test.TestClass4"/>
+				      <class name="test.TestClass5"/>
+					</classes>
+		</parameter>
+	</test>
+	</suite>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1488091393015" stop="1488091458920" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Comparision Tests : Comparision suite[Browser=chrome]</name>
+    <title>Comparision Tests : Comparision suite[Browser=chrome]</title>
+    <test-cases>
+        <test-case start="1488091400742" stop="1488091408387" status="passed">
+            <name>runTest1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="AdminisorsAir62.lan"/>
+                <label name="thread" value="80545@AdminisorsAir62.lan.pool-1-thread-3(18)"/>
+            </labels>
+        </test-case>
+        <test-case start="1488091400742" stop="1488091430855" status="passed">
+            <name>runTest1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="AdminisorsAir62.lan"/>
+                <label name="thread" value="80545@AdminisorsAir62.lan.pool-1-thread-2(17)"/>
+            </labels>
+        </test-case>
+        <test-case start="1488091400742" stop="1488091458746" status="passed">
+            <name>runTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="AdminisorsAir62.lan"/>
+                <label name="thread" value="80545@AdminisorsAir62.lan.pool-1-thread-1(16)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
